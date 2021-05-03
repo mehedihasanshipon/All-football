@@ -1,5 +1,10 @@
 # All football web app.
 
+* All football is a sports-related website
+* Find Live Football Scores, Match updates, Fixtures, Results, News,    Articles, Video highlights only at All Football.
+* Visit All-football to get up-to-the-minute sports news coverage, scores, highlights, and commentary for La-Liga, Premier-league, College Football, and more.
+* Technology: React, Router, Bootstrap,Firebase.
+
 ### What I have been used for this project!! ###
 
 * React Router
